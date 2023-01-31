@@ -1,0 +1,23 @@
+
+h1{
+    color: green;
+}
+
+img
+{
+    width: 400px;
+border:5px solid green
+}
+
+.hclass
+{
+    font-style:normal;
+    color : black;
+}
+
+
+.divclass
+{
+    font:500;
+    margin: 5px;
+}
